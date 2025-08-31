@@ -31,7 +31,7 @@ Built with **Streamlit** for easy interaction.
 ```bash
 git clone https://github.com/yourusername/text-to-speech-generator.git
 cd text-to-speech-generator
-
+```
 Run Streamlit:
 streamlit run script.py
 
