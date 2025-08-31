@@ -31,3 +31,36 @@ Built with **Streamlit** for easy interaction.
 ```bash
 git clone https://github.com/yourusername/text-to-speech-generator.git
 cd text-to-speech-generator
+
+Run Streamlit:
+streamlit run script.py
+
+## 🎤 How It Works
+
+1. 📑 Upload a **PDF file**.  
+2. 🎛️ Choose between **gTTS (Google’s TTS)** or **XTTS (voice cloning)**.  
+3. 🧑‍🤝‍🧑 For **XTTS**, upload a short **voice sample (WAV format)**.  
+4. ⏳ Wait while **chunks are processed into speech**.  
+5. 🎶 Listen or **download your personalized audiobook**.  
+
+---
+
+## ✨ Demo
+
+- 🔗 **App**: [PDF to Your Voice - Streamlit](https://faizantariq109-pdf-to-your-voice-script-lhgge7.streamlit.app/)  
+- 🔗 **Blog**: [Medium Article](https://medium.com/@faizan3san/%EF%B8%8F-building-a-text-to-speech-app-with-gtts-and-xtts-voice-cloning-58ae57003337)  
+
+---
+
+## 📌 Roadmap
+
+- [ ] 🌍 Support for **multiple languages**.  
+- [ ] 📊 Add **UI progress bar** during audio generation.  
+- [ ] 🎙️ Option to select **different cloned voices**.  
+
+---
+
+## 🤝 Contributing
+
+Pull requests are welcome!  
+If you’d like to **improve features**, **add screenshots**, or **optimize audio processing** — feel free to fork and submit.  
